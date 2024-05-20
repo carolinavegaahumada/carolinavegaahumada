@@ -2,7 +2,7 @@
 - 👀 I’m interested in python GIS
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on cartographic aids
-- 📫 How to reach me carolin347@hotmail.com
+- 📫 How to reach me carolinavegaahumada@gmail.com
 
 <!---
 carolinavegaahumada/carolinavegaahumada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
